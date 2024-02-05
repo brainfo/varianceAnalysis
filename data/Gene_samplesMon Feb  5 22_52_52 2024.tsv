@@ -1,0 +1,419 @@
+Gene Name	Transcript	Census Tier 1	Sample Name	Sample ID	AA Mutation	CDS Mutation	Primary Tissue	Tissue Subtype 1	Tissue Subtype 2	Histology	Histology Subtype 1	Histology Subtype 2	Pubmed Id	CGP Study	Somatic Status	Sample Type	Zygosity	Genomic Co-ordinates
+ADA	ENST00000372874.8	No	TCGA-AX-A2HD-01	2198411	p.?	c.*211G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Unknown	Unknown	20:44619623..44619623
+ADA	ENST00000372874.8	No	9-2	2746103	p.?	c.*176A>G	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44619658..44619658
+ADA	ENST00000372874.8	No	TCGA-63-A5MY-01	2385891	p.?	c.*160T>C	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Tumour Sample	Unknown	20:44619674..44619674
+ADA	ENST00000372874.8	No	LP6005500-DNA_A01	2262738	p.?	c.*152C>T	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44619682..44619682
+ADA	ENST00000372874.8	No	WGC067107	2549364	p.?	c.*127C>G	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44619707..44619707
+ADA	ENST00000372874.8	No	HCC65	2120868	p.?	c.*108A>G	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44619726..44619726
+ADA	ENST00000372874.8	No	HCC65T	1919223	p.?	c.*108A>G	Liver	NS	NS	Carcinoma	NS	NS	-	323	Previously Reported	Tumour Sample	Heterozygous	20:44619726..44619726
+ADA	ENST00000372874.8	No	TCGA-ER-A19B-06	2121713	p.?	c.*100C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44619734..44619734
+ADA	ENST00000372874.8	No	TCGA-HU-A4GN-01	2198035	p.?	c.*82C>A	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44619752..44619752
+ADA	ENST00000372874.8	No	TCGA-AP-A0LM-01	1783352	p.?	c.*53G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Tumour Sample	Unknown	20:44619781..44619781
+ADA	ENST00000372874.8	No	TCGA-DF-A2KN-01	2457388	p.?	c.*48G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Tumour Sample	Unknown	20:44619786..44619786
+ADA	ENST00000372874.8	No	TCGA-CK-6746-01	1651201	p.?	c.*37A>G	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44619797..44619797
+ADA	ENST00000372874.8	No	T3225	2658278	p.?	c.*4C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44619830..44619830
+ADA	ENST00000372874.8	No	TCGA-AN-A0FD-01	1899753	p.?	c.*4C>A	Breast	NS	NS	Carcinoma	NS	NS	-	414	Confirmed Somatic	Tumour Sample	Unknown	20:44619830..44619830
+ADA	ENST00000372874.8	No	TCGA-XF-A9SK-01	2457406	p.?	c.*2G>C	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Tumour Sample	Unknown	20:44619832..44619832
+ADA	ENST00000372874.8	No	TCGA-BS-A0UF-01	1783473	p.L363=	c.1089C>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Variant of unknown origin	Tumour Sample	Heterozygous	20:44619837..44619837
+ADA	ENST00000372874.8	No	TCGA-MY-A5BD-01	2193395	p.Q361*	c.1081C>T	Cervix	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	415	Confirmed Somatic	Unknown	Unknown	20:44619845..44619845
+ADA	ENST00000372874.8	No	LAU50_1	1675356	p.G360E	c.1079G>A	Skin	Leg	NS	Malignant melanoma	NS	NS	22197931	-	Variant of unknown origin	Cultured	Heterozygous	20:44619847..44619847
+ADA	ENST00000372874.8	No	LAU50_2	1675357	p.G360E	c.1079G>A	Skin	Leg	NS	Malignant melanoma	NS	NS	22197931	-	Variant of unknown origin	Cultured	Heterozygous	20:44619847..44619847
+ADA	ENST00000372874.8	No	5-148	2950148	p.?	c.1079-58C>T	Small intestine	Duodenum	NS	Carcinoma	Adenocarcinoma	NS	36991000	-	Confirmed Somatic	Tumour Sample	Unknown	20:44619905..44619905
+ADA	ENST00000372874.8	No	GCTK_482_T	2747481	p.?	c.1079-78C>G	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44619925..44619925
+ADA	ENST00000372874.8	No	PD3945a	1284069	p.?	c.1079-130G>A	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	"385; 652"	Confirmed Somatic	Tumour Sample	Unknown	20:44619977..44619977
+ADA	ENST00000372874.8	No	HCC32T	1919200	p.?	c.1079-173A>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Variant of unknown origin	Tumour Sample	Heterozygous	20:44620020..44620020
+ADA	ENST00000372874.8	No	4-2	2746099	p.?	c.1078+16G>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44620283..44620283
+ADA	ENST00000372874.8	No	TCGA-AA-3947-01	1651071	p.G352V	c.1055G>T	Large intestine	Colon	Ascending	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44620322..44620322
+ADA	ENST00000372874.8	No	TCGA-BR-4256-01	2198141	p.Y351C	c.1052A>G	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44620325..44620325
+ADA	ENST00000372874.8	No	T335135	2658230	p.A350V	c.1049C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44620328..44620328
+ADA	ENST00000372874.8	No	TCGA-DX-A6YV-01	2269672	p.A350D	c.1049C>A	Soft tissue	NS	NS	Sarcoma	NS	NS	-	635	Confirmed Somatic	Unknown	Unknown	20:44620328..44620328
+ADA	ENST00000372874.8	No	TCGA-64-5778-01	1780194	p.L347=	c.1041C>A	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	-	417	Confirmed Somatic	Tumour Sample	Unknown	20:44620336..44620336
+ADA	ENST00000372874.8	No	ESCC_91	2479589	p.D345N	c.1033G>A	Oesophagus	NS	NS	Carcinoma	Squamous cell carcinoma	NS	26873401	-	Confirmed Somatic	Unknown	Unknown	20:44620344..44620344
+ADA	ENST00000372874.8	No	TCGA-D1-A16X-01	1783518	p.D345N	c.1033G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Previously Reported	Tumour Sample	Heterozygous	20:44620344..44620344
+ADA	ENST00000372874.8	No	TCGA-GV-A6ZA-01	2262694	p.K340N	c.1020G>C	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Tumour Sample	Unknown	20:44620357..44620357
+ADA	ENST00000372874.8	No	TCGA-HU-A4H4-01	2197844	p.E337D	c.1011A>C	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44620366..44620366
+ADA	ENST00000372874.8	No	IM1	2556882	p.E337del	c.1011_1013del	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	26672766	-	Confirmed Somatic	Tumour Sample	Unknown	20:44620367..44620369
+ADA	ENST00000372874.8	No	HCC-A3	2556875	p.E337del	c.1011_1013del	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	26672766	-	Confirmed Somatic	Tumour Sample	Unknown	20:44620367..44620369
+ADA	ENST00000372874.8	No	HCC-A2	2556874	p.E337del	c.1011_1013del	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	26672766	-	Confirmed Somatic	Tumour Sample	Unknown	20:44620367..44620369
+ADA	ENST00000372874.8	No	HCC-A1	2556873	p.E337del	c.1011_1013del	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	26672766	-	Confirmed Somatic	Tumour Sample	Unknown	20:44620367..44620369
+ADA	ENST00000372874.8	No	IM2	2556883	p.E337del	c.1011_1013del	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	26672766	-	Confirmed Somatic	Tumour Sample	Unknown	20:44620367..44620369
+ADA	ENST00000372874.8	No	TCGA-ER-A19C-06	2121714	p.P336Q	c.1007C>A	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44620370..44620370
+ADA	ENST00000372874.8	No	EXTERN_MELA_20140924_088	2839393	p.A330T	c.988G>A	Skin	Scalp	NS	Malignant melanoma	NS	NS	28467829	-	Confirmed Somatic	Tumour Sample	Unknown	20:44620389..44620389
+ADA	ENST00000372874.8	No	DD107_PT	2749230	p.?	c.976-2A>C	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	29703791	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44620403..44620403
+ADA	ENST00000372874.8	No	TCGA-BH-A0B6-01	2187798	p.?	c.975+173G>C	Breast	NS	NS	Carcinoma	NS	NS	-	414	Confirmed Somatic	Unknown	Unknown	20:44620845..44620845
+ADA	ENST00000372874.8	No	2014_Lung_sq_91_T	2744858	p.?	c.975+68G>A	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44620950..44620950
+ADA	ENST00000372874.8	No	TCGA-EK-A2GZ-01	2262731	p.?	c.975+34G>A	Cervix	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	415	Confirmed Somatic	Tumour Sample	Unknown	20:44620984..44620984
+ADA	ENST00000372874.8	No	TCGA-X6-A7WB-01	2270285	p.L325M	c.973C>A	Soft tissue	NS	NS	Sarcoma	NS	NS	-	635	Confirmed Somatic	Unknown	Unknown	20:44621020..44621020
+ADA	ENST00000372874.8	No	TCGA-BK-A6W3-01	2263446	p.F322S	c.965T>C	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Tumour Sample	Unknown	20:44621028..44621028
+ADA	ENST00000372874.8	No	P3_Post	2907498	p.E321=	c.963G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	25673644	-	Confirmed Somatic	Tumour Sample	Unknown	20:44621030..44621030
+ADA	ENST00000372874.8	No	TCGA-13-0807-01	1474889	p.E321K	c.961G>A	Ovary	NS	NS	Carcinoma	Serous carcinoma	NS	21720365	331	Confirmed Somatic	Tumour Sample	Unknown	20:44621032..44621032
+ADA	ENST00000372874.8	No	2924520	2924520	p.E320G	c.959A>G	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	T cell prolymphocytic leukaemia	NS	24825865	-	Confirmed Somatic	Tumour Sample	Unknown	20:44621034..44621034
+ADA	ENST00000372874.8	No	TCGA-91-6831-01	1780236	p.E320K	c.958G>A	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	-	417	Confirmed Somatic	Tumour Sample	Unknown	20:44621035..44621035
+ADA	ENST00000372874.8	No	TCGA-VQ-A8PT-01	2339961	p.M315T	c.944T>C	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Tumour Sample	Unknown	20:44621049..44621049
+ADA	ENST00000372874.8	No	TCGA-BR-7707-01	2197896	p.D314=	c.942C>T	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44621051..44621051
+ADA	ENST00000372874.8	No	W1T	2745038	p.D314G	c.941A>G	Thyroid	NS	NS	Carcinoma	NS	NS	-	676	Confirmed Somatic	Tumour Sample	Unknown	20:44621052..44621052
+ADA	ENST00000372874.8	No	Thyroid-CN-WZ028T	2635089	p.D314G	c.941A>G	Thyroid	NS	NS	Carcinoma	NS	NS	-	676	Confirmed Somatic	Tumour Sample	Unknown	20:44621052..44621052
+ADA	ENST00000372874.8	No	2834144	2834144	p.R313W	c.937C>T	Skin	Mucosal	Nasopharynx	Malignant melanoma	NS	NS	28296713	-	Variant of unknown origin	Tumour Sample	Unknown	20:44621056..44621056
+ADA	ENST00000372874.8	No	TCGA-A8-A08O-01	1899705	p.K312R	c.935A>G	Breast	NS	NS	Carcinoma	NS	NS	-	414	Confirmed Somatic	Tumour Sample	Unknown	20:44621058..44621058
+ADA	ENST00000372874.8	No	4	2557186	p.T311I	c.932C>T	Upper aerodigestive tract	Mouth	NS	Carcinoma	Squamous cell carcinoma	NS	26934577	-	Variant of unknown origin	Tumour Sample	Unknown	20:44621061..44621061
+ADA	ENST00000372874.8	No	LUAD-RT-S01703	1765187	p.T303N	c.908C>A	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	22980975	-	Variant of unknown origin	Tumour Sample	Unknown	20:44621085..44621085
+ADA	ENST00000372874.8	No	LP6005409-DNA_F02	2263331	p.K301T	c.902A>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44621091..44621091
+ADA	ENST00000372874.8	No	TCGA-BG-A222-01	2198275	p.P297=	c.891G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Unknown	Unknown	20:44621102..44621102
+ADA	ENST00000372874.8	No	TCGA-HU-A4GT-01	2197914	p.P297=	c.891G>A	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44621102..44621102
+ADA	ENST00000372874.8	No	TCGA-W3-AA1V-06	2340244	p.D295N	c.883G>A	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44621110..44621110
+ADA	ENST00000372874.8	No	TUD-DA-782	2866066	p.S291L	c.872C>T	Small intestine	Duodenum	NS	Carcinoma	Adenocarcinoma	Medullary NOS	26804919	-	Confirmed Somatic	Tumour Sample	Unknown	20:44621121..44621121
+ADA	ENST00000372874.8	No	TCGA-50-5942-01	1780166	p.Y290=	c.870C>T	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	-	417	Confirmed Somatic	Tumour Sample	Unknown	20:44621123..44621123
+ADA	ENST00000372874.8	No	T2372	2658336	p.R282=	c.846G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44621147..44621147
+ADA	ENST00000372874.8	No	LICA-CN-HCC049T	2634096	p.R282=	c.846G>C	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44621147..44621147
+ADA	ENST00000372874.8	No	2	2584585	p.?	c.846-51T>C	Skin	Ear	NS	Carcinoma	Merkel cell carcinoma	NS	27592799	-	Confirmed Somatic	Tumour Sample	Unknown	20:44621198..44621198
+ADA	ENST00000372874.8	No	0029_CRUK_PC_0029_T1_DNA	2457562	p.?	c.846-53T>A	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	538	Confirmed Somatic	Tumour Sample	Unknown	20:44621200..44621200
+ADA	ENST00000372874.8	No	8044719	2121126	p.?	c.846-283C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Unknown	Unknown	20:44621430..44621430
+ADA	ENST00000372874.8	No	LP6008269-DNA_A09	2688187	p.?	c.845+424G>A	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44622164..44622164
+ADA	ENST00000372874.8	No	RK119_C01	2194688	p.?	c.845+166C>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44622422..44622422
+ADA	ENST00000372874.8	No	GCTK_489_T	2747484	p.?	c.845+115C>T	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44622473..44622473
+ADA	ENST00000372874.8	No	TCGA-66-2727-01	1782427	p.R282L	c.845G>T	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Tumour Sample	Unknown	20:44622588..44622588
+ADA	ENST00000372874.8	No	EXTERN_MELA_20140924_082	2839391	p.E277K	c.829G>A	Skin	Scalp	NS	Malignant melanoma	NS	NS	28467829	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622604..44622604
+ADA	ENST00000372874.8	No	TCGA-AA-3663-01	1651011	p.D275G	c.824A>G	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44622609..44622609
+ADA	ENST00000372874.8	No	HCC2450	2776299	p.D275Y	c.823G>T	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	29681454	-	Variant of unknown origin	Unknown	Unknown	20:44622610..44622610
+ADA	ENST00000372874.8	No	s_DS_scb_037_M_s_SCB_37M	2861605	p.W272*	c.816G>A	Urinary tract	Bladder	NS	Carcinoma	Small cell carcinoma	NS	29180607	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622617..44622617
+ADA	ENST00000372874.8	No	s_DS_scb_037_P1_s_SCB_37T1	2861607	p.W272*	c.816G>A	Urinary tract	Bladder	NS	Carcinoma	Small cell carcinoma	NS	29180607	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622617..44622617
+ADA	ENST00000372874.8	No	19	2497130	p.W272*	c.815G>A	Pancreas	Ampulla of Vater	NS	Carcinoma	NS	NS	26806338	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622618..44622618
+ADA	ENST00000372874.8	No	CHG-14-15016T	2634332	p.A271=	c.813C>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44622620..44622620
+ADA	ENST00000372874.8	No	TCGA-CR-7364-01	2193800	p.G270V	c.809G>T	Upper aerodigestive tract	Head neck	NS	Carcinoma	Squamous cell carcinoma	NS	-	627	Confirmed Somatic	Unknown	Unknown	20:44622624..44622624
+ADA	ENST00000372874.8	No	NOKSI	2296312	p.L268F	c.802C>T	Upper aerodigestive tract	Head neck	NS	Carcinoma	Squamous cell carcinoma	NS	25275298	-	Variant of unknown origin	Cultured	Unknown	20:44622631..44622631
+ADA	ENST00000372874.8	No	NOKSI	2296312	p.Y267*	c.801C>A	Upper aerodigestive tract	Head neck	NS	Carcinoma	Squamous cell carcinoma	NS	25275298	-	Variant of unknown origin	Cultured	Unknown	20:44622632..44622632
+ADA	ENST00000372874.8	No	TCGA-BS-A0U7-01	1783469	p.W264*	c.792G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Tumour Sample	Unknown	20:44622641..44622641
+ADA	ENST00000372874.8	No	195	2748167	p.?	c.781-21G>A	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44622673..44622673
+ADA	ENST00000372874.8	No	GCTK_16444_T	2747525	p.?	c.781-51A>C	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44622703..44622703
+ADA	ENST00000372874.8	No	COCA-CN-A-EcaA	2745814	p.?	c.780+36G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44622793..44622793
+ADA	ENST00000372874.8	No	2014_Lung_sq_91_T	2744858	p.?	c.780+36G>A	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44622793..44622793
+ADA	ENST00000372874.8	No	2014_Lung_sq_48_T	2744919	p.?	c.780+36G>A	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44622793..44622793
+ADA	ENST00000372874.8	No	CHC2127T	2340177	p.E260K	c.778G>A	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	-	381	Confirmed Somatic	Tumour Sample	Unknown	20:44622831..44622831
+ADA	ENST00000372874.8	No	TCGA-EE-A2GB-06	2121654	p.F259=	c.777C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44622832..44622832
+ADA	ENST00000372874.8	No	EXTERN_MELA_20140526_105	2839367	p.F259=	c.777C>T	Skin	Shoulder	NS	Malignant melanoma	NS	NS	28467829	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622832..44622832
+ADA	ENST00000372874.8	No	T162841	2658313	p.N256Tfs*55	c.767del	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44622845..44622845
+ADA	ENST00000372874.8	No	COCA-CN-A-EcaA	2745814	p.R253Q	c.758G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44622851..44622851
+ADA	ENST00000372874.8	No	2924481	2924481	p.R253W	c.757C>T	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	T cell prolymphocytic leukaemia	NS	24825865	-	Previously Reported	Tumour Sample	Unknown	20:44622852..44622852
+ADA	ENST00000372874.8	No	TCGA-25-2400-01	1474942	p.R253W	c.757C>T	Ovary	NS	NS	Carcinoma	Serous carcinoma	NS	21720365	331	Confirmed Somatic	Tumour Sample	Heterozygous	20:44622852..44622852
+ADA	ENST00000372874.8	No	APGI-CC-3117	2866102	p.R253W	c.757C>T	Biliary tract	Bile duct	NS	Carcinoma	Adenocarcinoma	NS	26804919	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622852..44622852
+ADA	ENST00000372874.8	No	WGC003624	2785061	p.L252=	c.756G>A	Biliary tract	Bile duct	NS	Carcinoma	Adenocarcinoma	NS	25526346	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622853..44622853
+ADA	ENST00000372874.8	No	TCGA-AA-3864-01	1651060	p.L252M	c.754C>A	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44622855..44622855
+ADA	ENST00000372874.8	No	T3724	2296245	p.R251=	c.753G>A	Large intestine	Colon	Transverse	Carcinoma	Adenocarcinoma	NS	25344691	-	Confirmed Somatic	Unknown	Unknown	20:44622856..44622856
+ADA	ENST00000372874.8	No	T3724	2658235	p.R251=	c.753G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44622856..44622856
+ADA	ENST00000372874.8	No	C000-RCWM1J	2936224	p.R251K	c.752G>A	Skin	NS	NS	Adnexal tumour	Malignant adnexal tumour	Eccrine porocarcinoma	34045664	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622857..44622857
+ADA	ENST00000372874.8	No	TCGA-56-8629-01	2195118	p.R251K	c.752G>A	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Unknown	Unknown	20:44622857..44622857
+ADA	ENST00000372874.8	No	TCGA-BA-5152-01	2193696	p.N250=	c.750C>T	Upper aerodigestive tract	Head neck	NS	Carcinoma	Squamous cell carcinoma	NS	-	627	Confirmed Somatic	Unknown	Unknown	20:44622859..44622859
+ADA	ENST00000372874.8	No	IGC-02-1183	2662280	p.A247=	c.741C>A	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	27923066	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622868..44622868
+ADA	ENST00000372874.8	No	LUAD-F00365	1765238	p.H241_L243del	c.721_729del	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	22980975	-	Variant of unknown origin	Tumour Sample	Unknown	20:44622880..44622888
+ADA	ENST00000372874.8	No	TCGA-BB-7870-01	2193714	p.G239=	c.717C>T	Upper aerodigestive tract	Head neck	NS	Carcinoma	Squamous cell carcinoma	NS	-	627	Confirmed Somatic	Unknown	Unknown	20:44622892..44622892
+ADA	ENST00000372874.8	No	STC297	2404159	p.R235W	c.703C>T	Stomach	NS	NS	Carcinoma	Intestinal adenocarcinoma	NS	25042771	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622906..44622906
+ADA	ENST00000372874.8	No	CHG-13-08087T	2634306	p.T233K	c.698C>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44622911..44622911
+ADA	ENST00000372874.8	No	TCGA-D7-5579-01	2198111	p.K232M	c.695A>T	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44622914..44622914
+ADA	ENST00000372874.8	No	SNU-668	2807651	p.D229E	c.687C>A	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	24807215	-	Previously Reported	Cultured	Unknown	20:44622922..44622922
+ADA	ENST00000372874.8	No	KPOPBR-083-T	2633630	p.D229E	c.687C>A	Breast	NS	NS	Carcinoma	NS	NS	-	669	Confirmed Somatic	Tumour Sample	Unknown	20:44622922..44622922
+ADA	ENST00000372874.8	No	TCGA-EE-A2MC-06	2121675	p.?	c.679-1G>A	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44622931..44622931
+ADA	ENST00000372874.8	No	WA40_1	1689684	p.?	c.679-8C>T	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	22722839	-	Confirmed Somatic	Tumour Sample	Unknown	20:44622938..44622938
+ADA	ENST00000372874.8	No	CHG-14-15016T	2634332	p.?	c.679-26C>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44622956..44622956
+ADA	ENST00000372874.8	No	HCC47	2120846	p.?	c.679-30C>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44622960..44622960
+ADA	ENST00000372874.8	No	HCC47T	1566755	p.?	c.679-30C>T	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	-	323	Previously Reported	Tumour Sample	Heterozygous	20:44622960..44622960
+ADA	ENST00000372874.8	No	IC531	2545760	p.V224=	c.672A>C	Ovary	NS	NS	Low malignant potential (borderline) tumour	Mucinous	NS	26257827	-	Confirmed Somatic	Tumour Sample	Unknown	20:44623013..44623013
+ADA	ENST00000372874.8	No	TCGA-78-7542-01	1914076	p.E222K	c.664G>A	Lung	Right upper lobe	NS	Carcinoma	Adenocarcinoma	NS	-	417	Previously Reported	Tumour Sample	Unknown	20:44623021..44623021
+ADA	ENST00000372874.8	No	TCGA-HU-A4H4-01	2197844	p.E222K	c.664G>A	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44623021..44623021
+ADA	ENST00000372874.8	No	TCGA-BR-8372-01	2198045	p.E222K	c.664G>A	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44623021..44623021
+ADA	ENST00000372874.8	No	DN110DC	2549247	p.S220=	c.660G>A	Breast	NS	NS	Carcinoma	HER-positive carcinoma	NS	-	668	Confirmed Somatic	Tumour Sample	Unknown	20:44623025..44623025
+ADA	ENST00000372874.8	No	CHEWS027	2294539	p.S220=	c.660G>A	Bone	Femur	NS	Ewing sarcoma-peripheral primitive neuroectodermal tumour	NS	NS	25186949	-	Previously Reported	Unknown	Unknown	20:44623025..44623025
+ADA	ENST00000372874.8	No	PD7305a	1541116	p.S220=	c.660G>A	Breast	NS	NS	Carcinoma	ER-PR-HER-positive carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44623025..44623025
+ADA	ENST00000372874.8	No	TCGA-WE-A8K5-06	2339953	p.S220L	c.659C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44623026..44623026
+ADA	ENST00000372874.8	No	I2L-P19Ta-Tumor-Organoid	2433499	p.G219D	c.656G>A	Large intestine	Colon	Ascending	Carcinoma	Adenocarcinoma	NS	25957691	-	Confirmed Somatic	Unknown	Heterozygous	20:44623029..44623029
+ADA	ENST00000372874.8	No	TCGA-ZF-A9RF-01	2385816	p.E217K	c.649G>A	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Tumour Sample	Unknown	20:44623036..44623036
+ADA	ENST00000372874.8	No	TCGA-ZF-A9RF-01	2385816	p.G216=	c.648G>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Tumour Sample	Unknown	20:44623037..44623037
+ADA	ENST00000372874.8	No	P09-1580	1691490	p.A215=	c.645C>T	Prostate	NS	NS	Carcinoma	NS	NS	22610119	-	Variant of unknown origin	Tumour Sample	Heterozygous	20:44623040..44623040
+ADA	ENST00000372874.8	No	TCGA-B9-A69E-01	2194084	p.A215V	c.644C>T	Kidney	NS	NS	Carcinoma	Papillary renal cell carcinoma	NS	-	543	Confirmed Somatic	Unknown	Unknown	20:44623041..44623041
+ADA	ENST00000372874.8	No	MTP6_T2	2875767	p.H214=	c.642C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	32796935	-	Confirmed Somatic	Tumour Sample	Unknown	20:44623043..44623043
+ADA	ENST00000372874.8	No	TCGA-FD-A5BU-01	2193206	p.H214=	c.642C>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Unknown	Unknown	20:44623043..44623043
+ADA	ENST00000372874.8	No	T229707	2658522	p.H214=	c.642C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44623043..44623043
+ADA	ENST00000372874.8	No	T115875	2658338	p.H214=	c.642C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44623043..44623043
+ADA	ENST00000372874.8	No	TCGA-OD-A75X-06	2185862	p.H214Y	c.640C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44623045..44623045
+ADA	ENST00000372874.8	No	TCGA-OD-A75X-06	2185862	p.V213=	c.639C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44623046..44623046
+ADA	ENST00000372874.8	No	ESO-0029	1890840	p.V213F	c.637G>T	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	23525077	-	Variant of unknown origin	Tumour Sample	Unknown	20:44623048..44623048
+ADA	ENST00000372874.8	No	TCGA-85-6561-01	1783181	p.H210N	c.628C>A	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Tumour Sample	Unknown	20:44623057..44623057
+ADA	ENST00000372874.8	No	4760_PT	2501006	p.S207G	c.619A>G	Large intestine	Colon	Left	Carcinoma	Adenocarcinoma	NS	26109429	-	Confirmed Somatic	Tumour Sample	Unknown	20:44623066..44623066
+ADA	ENST00000372874.8	No	4760_CLM	2501007	p.S207G	c.619A>G	Large intestine	Colon	Left	Carcinoma	Adenocarcinoma	NS	26109429	-	Confirmed Somatic	Tumour Sample	Unknown	20:44623066..44623066
+ADA	ENST00000372874.8	No	HCC126	2120724	p.?	c.607-9C>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44623087..44623087
+ADA	ENST00000372874.8	No	HCC126T	2120725	p.?	c.607-9C>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44623087..44623087
+ADA	ENST00000372874.8	No	NYZ-1300552T	2633910	p.?	c.607-37C>T	Stomach	NS	NS	Carcinoma	NS	NS	-	371	Confirmed Somatic	Tumour Sample	Unknown	20:44623115..44623115
+ADA	ENST00000372874.8	No	BN24	2120651	p.?	c.607-45G>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44623123..44623123
+ADA	ENST00000372874.8	No	BN24T	1919145	p.?	c.607-45G>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Previously Reported	Tumour Sample	Heterozygous	20:44623123..44623123
+ADA	ENST00000372874.8	No	RK076_C01	2120959	p.?	c.607-192G>C	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44623270..44623270
+ADA	ENST00000372874.8	No	PD9004a	1613708	p.?	c.606+554G>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44623648..44623648
+ADA	ENST00000372874.8	No	AOCS-139-1-5	2196312	p.?	c.606+428C>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44623774..44623774
+ADA	ENST00000372874.8	No	AOCS-139-12-5	2185820	p.?	c.606+428C>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44623774..44623774
+ADA	ENST00000372874.8	No	AOCS-139-6-3	2185945	p.?	c.606+428C>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44623774..44623774
+ADA	ENST00000372874.8	No	8068556	2263479	p.?	c.606+310G>A	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Tumour Sample	Unknown	20:44623892..44623892
+ADA	ENST00000372874.8	No	AOCS-147-1-1	2196266	p.?	c.606+293C>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44623909..44623909
+ADA	ENST00000372874.8	No	276	2748248	p.?	c.606+287del	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44623922..44623922
+ADA	ENST00000372874.8	No	2_4-061	2950113	p.?	c.606+227T>C	Small intestine	Duodenum	NS	Adenoma	Tubulovillous	NS	36991000	-	Confirmed Somatic	Tumour Sample	Unknown	20:44623975..44623975
+ADA	ENST00000372874.8	No	GCTK_450_T	2747470	p.?	c.606+176T>C	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44624026..44624026
+ADA	ENST00000372874.8	No	GCTK_438_T	2747466	p.?	c.606+172T>C	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44624030..44624030
+ADA	ENST00000372874.8	No	279	2748251	p.?	c.606+17G>A	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44624185..44624185
+ADA	ENST00000372874.8	No	131A	2943553	p.?	c.606+4G>A	Skin	NS	NS	Malignant melanoma	NS	NS	35243413	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624198..44624198
+ADA	ENST00000372874.8	No	OSCC-GB_00620111	2339665	p.V198F	c.592G>T	Upper aerodigestive tract	Mouth	NS	Carcinoma	NS	NS	-	539	Confirmed Somatic	Tumour Sample	Unknown	20:44624216..44624216
+ADA	ENST00000372874.8	No	5-VS024-T1	2869845	p.L193=	c.579C>T	Skin	NS	NS	Carcinoma	Basal cell carcinoma	NS	26950094	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624229..44624229
+ADA	ENST00000372874.8	No	BCM-AMP-69	2865968	p.S191N	c.572G>A	Pancreas	Ampulla of Vater	NS	Carcinoma	Ductal carcinoma	NS	26804919	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624236..44624236
+ADA	ENST00000372874.8	No	TCGA-EY-A2OP-01	2198363	p.A183D	c.548C>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Unknown	Unknown	20:44624260..44624260
+ADA	ENST00000372874.8	No	IGC-02-1183	2662280	p.D181E	c.543C>A	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	27923066	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624265..44624265
+ADA	ENST00000372874.8	No	CLL048	1897493	p.I180=	c.540T>C	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Chronic lymphocytic leukaemia-small lymphocytic lymphoma	NS	23415222	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624268..44624268
+ADA	ENST00000372874.8	No	PTC-28C	2186085	p.V178=	c.534A>G	Thyroid	NS	NS	Other	Neoplasm	NS	-	589	Confirmed Somatic	Unknown	Unknown	20:44624274..44624274
+ADA	ENST00000372874.8	No	OSCC-GB_01250111	2385626	p.V178A	c.533T>C	Upper aerodigestive tract	Mouth	NS	Carcinoma	NS	NS	-	539	Confirmed Somatic	Tumour Sample	Unknown	20:44624275..44624275
+ADA	ENST00000372874.8	No	LICA-CN-HCC132T	2634179	p.T176=	c.528C>T	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44624280..44624280
+ADA	ENST00000372874.8	No	TCGA-EE-A3AA-06	2121692	p.T176=	c.528C>A	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44624280..44624280
+ADA	ENST00000372874.8	No	TCGA-AA-3864-01	1651060	p.T176=	c.528C>T	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44624280..44624280
+ADA	ENST00000372874.8	No	H2009	2776255	p.Q174*	c.520C>T	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	29681454	-	Confirmed Somatic	Unknown	Unknown	20:44624288..44624288
+ADA	ENST00000372874.8	No	B98-Tumor	2186097	p.Q173*	c.517C>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	581	Confirmed Somatic	Unknown	Unknown	20:44624291..44624291
+ADA	ENST00000372874.8	No	SCLC30_R_LI	2806513	p.Y172H	c.514T>C	Lung	NS	NS	Carcinoma	Small cell carcinoma	NS	30224629	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624294..44624294
+ADA	ENST00000372874.8	No	TCGA-AP-A051-01	1783330	p.E167=	c.501G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Variant of unknown origin	Tumour Sample	Heterozygous	20:44624307..44624307
+ADA	ENST00000372874.8	No	GBM18-I1	2813453	p.?	c.479-8G>A	Central nervous system	Brain	NS	Glioma	Astrocytoma Grade IV	Glioblastoma multiforme	28263318	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624337..44624337
+ADA	ENST00000372874.8	No	GBM18-I2	2813454	p.?	c.479-8G>A	Central nervous system	Brain	NS	Glioma	Astrocytoma Grade IV	Glioblastoma multiforme	28263318	-	Confirmed Somatic	Tumour Sample	Unknown	20:44624337..44624337
+ADA	ENST00000372874.8	No	A12-2A	2746130	p.?	c.479-28A>G	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44624357..44624357
+ADA	ENST00000372874.8	No	CHG-2014-1747T	2634359	p.?	c.479-52A>G	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44624381..44624381
+ADA	ENST00000372874.8	No	HCC104	2120698	p.?	c.479-236G>A	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44624565..44624565
+ADA	ENST00000372874.8	No	HCC104T	1919167	p.?	c.479-236G>A	Liver	NS	NS	Carcinoma	NS	NS	-	323	Previously Reported	Tumour Sample	Heterozygous	20:44624565..44624565
+ADA	ENST00000372874.8	No	SM-4JPP7	2633831	p.?	c.478+413T>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44625156..44625156
+ADA	ENST00000372874.8	No	SM-4JPUX	2633833	p.?	c.478+413T>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44625156..44625156
+ADA	ENST00000372874.8	No	SM-4JPP9	2633832	p.?	c.478+413T>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44625156..44625156
+ADA	ENST00000372874.8	No	CPCG0333-F1	2688280	p.?	c.478+35G>A	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Tumour Sample	Unknown	20:44625534..44625534
+ADA	ENST00000372874.8	No	CHG-13-09089T	2634309	p.?	c.478+30C>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44625539..44625539
+ADA	ENST00000372874.8	No	BD165T	2459796	p.?	c.478+16G>A	Biliary tract	Bile duct	NS	Carcinoma	NS	NS	-	658	Confirmed Somatic	Tumour Sample	Unknown	20:44625553..44625553
+ADA	ENST00000372874.8	No	CHG-13-08087T	2634306	p.P159T	c.475C>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44625572..44625572
+ADA	ENST00000372874.8	No	Pat_06_B	2513789	p.Q158R	c.473A>G	NS	NS	NS	Malignant melanoma	NS	NS	24265153	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625574..44625574
+ADA	ENST00000372874.8	No	TCGA-SJ-A6ZI-01	2386250	p.R149Q	c.446G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Tumour Sample	Unknown	20:44625601..44625601
+ADA	ENST00000372874.8	No	2834134	2834134	p.R149W	c.445C>T	Skin	Mucosal	Female genital tract (site indeterminate)	Malignant melanoma	NS	NS	28296713	-	Variant of unknown origin	Tumour Sample	Unknown	20:44625602..44625602
+ADA	ENST00000372874.8	No	TCGA-CK-6746-01	1651201	p.K147N	c.441G>T	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44625606..44625606
+ADA	ENST00000372874.8	No	Pa09C	1473090	p.R142Q	c.425G>A	Pancreas	NS	NS	NS	NS	NS	-	327	Confirmed Somatic	Cultured	Heterozygous	20:44625622..44625622
+ADA	ENST00000372874.8	No	EXTERN_MELA_20140526_069	2839358	p.R142Q	c.425G>A	Skin	Shoulder	NS	Malignant melanoma	NS	NS	28467829	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625622..44625622
+ADA	ENST00000372874.8	No	GBC_1	2907847	p.R142G	c.424C>G	Biliary tract	Gallbladder	NS	Carcinoma	Adenocarcinoma	NS	33563892	-	Variant of unknown origin	Tumour Sample	Unknown	20:44625623..44625623
+ADA	ENST00000372874.8	No	TCGA-DI-A1BU-01	2198300	p.E141=	c.423G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Unknown	Unknown	20:44625624..44625624
+ADA	ENST00000372874.8	No	C000-HZGGV2	2936223	p.G140E	c.419G>A	Skin	NS	NS	Adnexal tumour	Malignant adnexal tumour	Eccrine porocarcinoma	34045664	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625628..44625628
+ADA	ENST00000372874.8	No	G-2A	2746114	p.E141Sfs*38	c.421del	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44625630..44625630
+ADA	ENST00000372874.8	No	ACINAR03	2068114	p.E141Sfs*38	c.421del	Pancreas	NS	NS	Carcinoma	Acinar carcinoma	NS	24293293	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625630..44625630
+ADA	ENST00000372874.8	No	W18T	2745048	p.Q135R	c.404A>G	Thyroid	NS	NS	Carcinoma	NS	NS	-	676	Confirmed Somatic	Tumour Sample	Unknown	20:44625643..44625643
+ADA	ENST00000372874.8	No	Thyroid-CN-WZ038T	2635099	p.Q135R	c.404A>G	Thyroid	NS	NS	Carcinoma	NS	NS	-	676	Confirmed Somatic	Tumour Sample	Unknown	20:44625643..44625643
+ADA	ENST00000372874.8	No	TCGA-A6-6141-01	1650953	p.V130=	c.390G>A	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44625657..44625657
+ADA	ENST00000372874.8	No	Au8	2466847	p.E128K	c.382G>A	Skin	Ankle	NS	Malignant melanoma	Desmoplastic	NS	26343386	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	GC_383T-GC_383N	2324597	p.E128K	c.382G>A	Stomach	NS	NS	Carcinoma	Diffuse adenocarcinoma	NS	24816255	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	GCTK_383_T	2747446	p.E128K	c.382G>A	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	2492714	2492714	p.E128K	c.382G>A	Skin	NS	NS	Malignant melanoma	NS	NS	26286987	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	2492713	2492713	p.E128K	c.382G>A	Skin	NS	NS	Malignant melanoma	NS	NS	26286987	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	2492712	2492712	p.E128K	c.382G>A	Skin	NS	NS	Malignant melanoma	NS	NS	26286987	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	2492711	2492711	p.E128K	c.382G>A	Skin	Ankle	NS	Malignant melanoma	NS	NS	26286987	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625665..44625665
+ADA	ENST00000372874.8	No	TCGA-12-0619-01	1909590	p.D127=	c.381C>T	Central nervous system	Brain	NS	Glioma	Astrocytoma Grade IV	Glioblastoma multiforme	-	329	Confirmed Somatic	Tumour Sample	Unknown	20:44625666..44625666
+ADA	ENST00000372874.8	No	5-VS034-T1	2869858	p.D123=	c.369C>T	Skin	NS	NS	Carcinoma	Basal cell carcinoma	NS	26950094	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625678..44625678
+ADA	ENST00000372874.8	No	CC-UT-170M1	2856955	p.G122A	c.365G>C	Kidney	NS	NS	Carcinoma	Clear cell renal cell carcinoma	NS	32271170	-	Confirmed Somatic	Tumour Sample	Unknown	20:44625682..44625682
+ADA	ENST00000372874.8	No	YYY-701T	2633915	p.?	c.363-58G>A	Stomach	NS	NS	Carcinoma	NS	NS	-	371	Confirmed Somatic	Tumour Sample	Unknown	20:44625742..44625742
+ADA	ENST00000372874.8	No	AOCS-138-3-X	2185950	p.?	c.363-94C>G	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44625778..44625778
+ADA	ENST00000372874.8	No	SC_9090	2467413	p.?	c.363-158_363-151del	Prostate	NS	NS	Carcinoma	NS	NS	26000489	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44625839..44625846
+ADA	ENST00000372874.8	No	PD9000a	1613700	p.?	c.363-228A>G	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44625912..44625912
+ADA	ENST00000372874.8	No	PD4986a	1463715	p.?	c.363-236C>A	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44625920..44625920
+ADA	ENST00000372874.8	No	CPCG0089-F1	2746266	p.?	c.363-242G>A	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Tumour Sample	Unknown	20:44625926..44625926
+ADA	ENST00000372874.8	No	PD24205a	2234104	p.?	c.362+367A>C	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44626089..44626089
+ADA	ENST00000372874.8	No	8016470	1842414	p.?	c.362+192G>A	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Cultured	Unknown	20:44626264..44626264
+ADA	ENST00000372874.8	No	2014_Lung_sq_66_T	2744937	p.?	c.362+72G>A	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44626384..44626384
+ADA	ENST00000372874.8	No	8057783	2121205	p.?	c.362+35G>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Unknown	Unknown	20:44626421..44626421
+ADA	ENST00000372874.8	No	8057783	2121205	p.?	c.362+34G>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Unknown	Unknown	20:44626422..44626422
+ADA	ENST00000372874.8	No	TCGA-EE-A29G-06	2121637	p.?	c.362+3G>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44626453..44626453
+ADA	ENST00000372874.8	No	TCGA-YF-AA3L-01	2340131	p.E121V	c.362A>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Tumour Sample	Unknown	20:44626456..44626456
+ADA	ENST00000372874.8	No	TCGA-06-1802-01	2178255	p.E121*	c.361G>T	Central nervous system	Brain	NS	Glioma	Astrocytoma Grade IV	Glioblastoma multiforme	-	329	Confirmed Somatic	Unknown	Unknown	20:44626457..44626457
+ADA	ENST00000372874.8	No	TCGA-BF-A3DM-01	2197829	p.W117*	c.351G>A	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44626467..44626467
+ADA	ENST00000372874.8	No	CSCC-31-T	2292472	p.P116L	c.347C>T	Skin	Head neck	NS	Carcinoma	Squamous cell carcinoma	NS	25303977	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44626471..44626471
+ADA	ENST00000372874.8	No	TCGA-EX-A69L-01	2193338	p.P116L	c.347C>T	Cervix	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	415	Confirmed Somatic	Unknown	Unknown	20:44626471..44626471
+ADA	ENST00000372874.8	No	TCGA-BR-4368-01	2197939	p.P116H	c.347C>A	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44626471..44626471
+ADA	ENST00000372874.8	No	CTCL_NU20	2440540	p.P116S	c.346C>T	Haematopoietic and lymphoid	Skin	NS	Lymphoid neoplasm	Mycosis fungoides-Sezary syndrome	NS	26551667	-	Confirmed Somatic	Tumour Sample	Unknown	20:44626472..44626472
+ADA	ENST00000372874.8	No	TCGA-G2-A3VY-01	2193250	p.V112L	c.334G>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Unknown	Unknown	20:44626484..44626484
+ADA	ENST00000372874.8	No	SCLC18_R_AG_1316921	2806498	p.S110F	c.329C>T	Lung	NS	NS	Carcinoma	Small cell carcinoma	NS	30224629	-	Confirmed Somatic	Tumour Sample	Unknown	20:44626489..44626489
+ADA	ENST00000372874.8	No	pfg068T	2309636	p.A108V	c.323C>T	Stomach	NS	NS	Carcinoma	Intestinal adenocarcinoma	NS	24816253	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44626495..44626495
+ADA	ENST00000372874.8	No	Pat_45_A	2492883	p.R101Q	c.302G>A	NS	NS	NS	Malignant melanoma	NS	NS	24265153	-	Confirmed Somatic	Tumour Sample	Unknown	20:44626516..44626516
+ADA	ENST00000372874.8	No	MZ1-PC	753595	p.G94=	c.282C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	678	Confirmed Somatic	Cultured	Heterozygous	20:44626536..44626536
+ADA	ENST00000372874.8	No	TCGA-34-2605-01	2195217	p.G94=	c.282C>T	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Unknown	Unknown	20:44626536..44626536
+ADA	ENST00000372874.8	No	S01297_1	2480846	p.G94=	c.282C>A	Lung	NS	NS	Carcinoma	Small cell carcinoma	NS	26168399	-	Confirmed Somatic	Tumour Sample	Unknown	20:44626536..44626536
+ADA	ENST00000372874.8	No	TCGA-E2-A15J-01	1900142	p.E88=	c.264G>A	Breast	NS	NS	Carcinoma	NS	NS	-	414	Confirmed Somatic	Tumour Sample	Unknown	20:44626554..44626554
+ADA	ENST00000372874.8	No	LP1	2809761	p.E88K	c.262G>A	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Plasma cell myeloma	NS	30545397	-	Variant of unknown origin	Cultured	Heterozygous	20:44626556..44626556
+ADA	ENST00000372874.8	No	EOSRC-IN-2455	2902089	p.A83T	c.247G>A	Large intestine	Rectum	NS	Carcinoma	Adenocarcinoma	NS	33262464	-	Confirmed Somatic	Tumour Sample	Unknown	20:44626571..44626571
+ADA	ENST00000372874.8	No	TCGA-BG-A3EW-01	2198354	p.A83T	c.247G>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Unknown	Unknown	20:44626571..44626571
+ADA	ENST00000372874.8	No	RMS10	2355916	p.K80R	c.239A>G	Soft tissue	Striated muscle	Head neck	Rhabdomyosarcoma	Embryonal	NS	24793135	-	Variant of unknown origin	Tumour Sample	Unknown	20:44626579..44626579
+ADA	ENST00000372874.8	No	RH30SJ	2355914	p.K80R	c.239A>G	Soft tissue	Striated muscle	NS	Rhabdomyosarcoma	Alveolar	NS	24793135	-	Variant of unknown origin	Cultured	Unknown	20:44626579..44626579
+ADA	ENST00000372874.8	No	RMS80	2355926	p.K80R	c.239A>G	Soft tissue	Striated muscle	Cheek	Rhabdomyosarcoma	Embryonal	NS	24793135	-	Variant of unknown origin	Tumour Sample	Unknown	20:44626579..44626579
+ADA	ENST00000372874.8	No	TCGA-C4-A0F1-01	1779242	p.I79=	c.237C>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Tumour Sample	Unknown	20:44626581..44626581
+ADA	ENST00000372874.8	No	T3064	2296168	p.R76L	c.227G>T	Large intestine	Colon	Transverse	Carcinoma	Adenocarcinoma	NS	25344691	-	Confirmed Somatic	Unknown	Unknown	20:44626591..44626591
+ADA	ENST00000372874.8	No	TCGA-AX-A0J0-01	1783376	p.C75=	c.225C>T	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Variant of unknown origin	Tumour Sample	Heterozygous	20:44626593..44626593
+ADA	ENST00000372874.8	No	2014_Lung_sq_04_T	2744875	p.?	c.219-69G>A	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44626668..44626668
+ADA	ENST00000372874.8	No	tumor_4138464	2634535	p.?	c.219-676C>G	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	NS	NS	-	440	Confirmed Somatic	Tumour Sample	Unknown	20:44627275..44627275
+ADA	ENST00000372874.8	No	8051718	2197374	p.?	c.219-711A>G	Pancreas	NS	NS	Carcinoid-endocrine tumour	NS	NS	-	586	Confirmed Somatic	Unknown	Unknown	20:44627310..44627310
+ADA	ENST00000372874.8	No	RK141_C01	1918885	p.?	c.219-1188C>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Variant of unknown origin	Tumour Sample	Heterozygous	20:44627787..44627787
+ADA	ENST00000372874.8	No	CPCG0096-F1	2688242	p.?	c.218+1073G>A	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Tumour Sample	Unknown	20:44627974..44627974
+ADA	ENST00000372874.8	No	PD4847a	1433841	p.?	c.218+1001C>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44628046..44628046
+ADA	ENST00000372874.8	No	CPCG_0183_Pr_P_P3	2121450	p.?	c.218+768A>G	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Unknown	Unknown	20:44628279..44628279
+ADA	ENST00000372874.8	No	RK260_C01	2340824	p.?	c.218+674T>C	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Tumour Sample	Unknown	20:44628373..44628373
+ADA	ENST00000372874.8	No	RK306_C01	2340311	p.?	c.218+557G>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Tumour Sample	Unknown	20:44628490..44628490
+ADA	ENST00000372874.8	No	CPCG_0183_Pr_P_P3	2121450	p.?	c.218+553A>G	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Unknown	Unknown	20:44628494..44628494
+ADA	ENST00000372874.8	No	PD6410a	1491602	p.?	c.218+206C>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44628841..44628841
+ADA	ENST00000372874.8	No	2014_Lung_sq_78_T	2744949	p.?	c.218+177T>C	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44628870..44628870
+ADA	ENST00000372874.8	No	PD31205a	2935745	p.?	c.218+156_218+157dup	Soft tissue	Fibrous tissue and uncertain origin	Upper leg	Undifferentiated-unclassified sarcoma	Epithelioid cell	NS	30889380	-	Confirmed Somatic	Tumour Sample	Unknown	20:44628892..44628893
+ADA	ENST00000372874.8	No	DN1401F	2549318	p.?	c.218+70C>T	Breast	NS	NS	Carcinoma	HER-positive carcinoma	NS	-	668	Confirmed Somatic	Tumour Sample	Unknown	20:44628977..44628977
+ADA	ENST00000372874.8	No	CH-LA2	2211428	p.?	c.218+1G>T	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	24449147	-	Confirmed Somatic	Tumour Sample	Unknown	20:44629046..44629046
+ADA	ENST00000372874.8	No	T84	2658358	p.A73T	c.217G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44629048..44629048
+ADA	ENST00000372874.8	No	TCGA-A2-A0CM-01	1899607	p.A73T	c.217G>A	Breast	NS	NS	Carcinoma	NS	NS	-	414	Confirmed Somatic	Tumour Sample	Unknown	20:44629048..44629048
+ADA	ENST00000372874.8	No	GBM18-I2	2813454	p.A73T	c.217G>A	Central nervous system	Brain	NS	Glioma	Astrocytoma Grade IV	Glioblastoma multiforme	28263318	-	Confirmed Somatic	Tumour Sample	Unknown	20:44629048..44629048
+ADA	ENST00000372874.8	No	TCGA-AA-3984-01	1651090	p.I72=	c.216C>T	Large intestine	Colon	Sigmoid	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44629049..44629049
+ADA	ENST00000372874.8	No	Pat_41_B	2513797	p.P70L	c.209C>T	NS	NS	NS	Malignant melanoma	NS	NS	24265153	-	Confirmed Somatic	Tumour Sample	Unknown	20:44629056..44629056
+ADA	ENST00000372874.8	No	520LC	2637269	p.Y67C	c.200A>G	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	26503331	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44629065..44629065
+ADA	ENST00000372874.8	No	TCGA-B5-A121-01	1783417	p.F65C	c.194T>G	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Tumour Sample	Unknown	20:44629071..44629071
+ADA	ENST00000372874.8	No	WD_01	2688650	p.A63T	c.187G>A	Skin	Face	NS	Carcinoma	Squamous cell carcinoma	NS	24662767	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44629078..44629078
+ADA	ENST00000372874.8	No	WD_01	2688650	p.L62=	c.186G>A	Skin	Face	NS	Carcinoma	Squamous cell carcinoma	NS	24662767	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44629079..44629079
+ADA	ENST00000372874.8	No	TCGA-GF-A6C9-06	2339468	p.F61=	c.183C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44629082..44629082
+ADA	ENST00000372874.8	No	TCGA-AZ-4615-01	1651165	p.T57S	c.170C>G	Large intestine	Colon	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44629095..44629095
+ADA	ENST00000372874.8	No	T3225	2296200	p.P55=	c.165G>A	Large intestine	Colon	Descending	Carcinoma	Adenocarcinoma	NS	25344691	-	Confirmed Somatic	Unknown	Unknown	20:44629100..44629100
+ADA	ENST00000372874.8	No	T3225	2658278	p.P55=	c.165G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44629100..44629100
+ADA	ENST00000372874.8	No	T2448	2658241	p.P55L	c.164C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44629101..44629101
+ADA	ENST00000372874.8	No	T3485	2658603	p.P55L	c.164C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	27149842	-	Confirmed Somatic	Unknown	Unknown	20:44629101..44629101
+ADA	ENST00000372874.8	No	TCGA-EE-A2A2-06	2121651	p.D53Y	c.157G>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44629108..44629108
+ADA	ENST00000372874.8	No	TCGA-W3-A825-06	2339744	p.D53H	c.157G>C	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44629108..44629108
+ADA	ENST00000372874.8	No	TCGA-85-A53L-01	2195121	p.G51=	c.153C>A	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Unknown	Unknown	20:44629112..44629112
+ADA	ENST00000372874.8	No	TCGA-A3-3372-01	1801074	p.G51=	c.153C>T	Kidney	NS	NS	Carcinoma	Clear cell renal cell carcinoma	NS	-	416	Variant of unknown origin	Tumour Sample	Unknown	20:44629112..44629112
+ADA	ENST00000372874.8	No	pfg014T	1943742	p.N48=	c.144C>T	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	22037554	-	Variant of unknown origin	Tumour Sample	Unknown	20:44629121..44629121
+ADA	ENST00000372874.8	No	PD29689a	2937803	p.G45=	c.135G>A	Skin	Neck	NS	Adnexal tumour	Malignant adnexal tumour	Spiradenocarcinoma	31101826	-	Confirmed Somatic	Tumour Sample	Unknown	20:44629130..44629130
+ADA	ENST00000372874.8	No	LP6007427-DNA_A01	2263074	p.A43=	c.129A>T	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44629136..44629136
+ADA	ENST00000372874.8	No	TCGA-X6-A7WB-01	2270285	p.A43E	c.128C>A	Soft tissue	NS	NS	Sarcoma	NS	NS	-	635	Confirmed Somatic	Unknown	Unknown	20:44629137..44629137
+ADA	ENST00000372874.8	No	TCGA-AP-A0LM-01	1783352	p.I36=	c.108C>T	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Previously Reported	Tumour Sample	Heterozygous	20:44629157..44629157
+ADA	ENST00000372874.8	No	LP6008280-DNA_B03	2633862	p.I36=	c.108C>T	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44629157..44629157
+ADA	ENST00000372874.8	No	TCGA-FW-A3R5-06	2185962	p.I36=	c.108C>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44629157..44629157
+ADA	ENST00000372874.8	No	TCGA-CG-5721-01	2198017	p.I36=	c.108C>T	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	-	541	Confirmed Somatic	Unknown	Unknown	20:44629157..44629157
+ADA	ENST00000372874.8	No	TCGA-ER-A19C-06	2121714	p.G35V	c.104G>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44629161..44629161
+ADA	ENST00000372874.8	No	TCGA-FS-A1Z0-06	2121749	p.R34I	c.101G>T	Skin	NS	NS	Malignant melanoma	NS	NS	-	540	Confirmed Somatic	Unknown	Unknown	20:44629164..44629164
+ADA	ENST00000372874.8	No	TCGA-G9-6494-01	1797232	p.R33S	c.99G>T	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	435	Confirmed Somatic	Tumour Sample	Unknown	20:44629166..44629166
+ADA	ENST00000372874.8	No	PT42	2521299	p.R33K	c.98G>A	Skin	NS	NS	Carcinoma	Basal cell carcinoma	NS	25759019	-	Confirmed Somatic	Tumour Sample	Unknown	20:44629167..44629167
+ADA	ENST00000372874.8	No	PD42133a	2894847	p.R33K	c.98G>A	Skin	Extremity	NS	Malignant melanoma	In situ melanotic neoplasm	NS	33024263	-	Confirmed Somatic	Tumour Sample	Unknown	20:44629167..44629167
+ADA	ENST00000372874.8	No	RK083_C01	1918863	p.?	c.96-77G>A	Liver	NS	NS	Carcinoma	NS	NS	-	322	Variant of unknown origin	Tumour Sample	Heterozygous	20:44629246..44629246
+ADA	ENST00000372874.8	No	1339-01-03TD	2456404	p.?	c.96-86C>T	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Chronic lymphocytic leukaemia-small lymphocytic lymphoma	NS	-	340	Confirmed Somatic	Tumour Sample	Unknown	20:44629255..44629255
+ADA	ENST00000372874.8	No	WGC074438	2549400	p.?	c.96-99G>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44629268..44629268
+ADA	ENST00000372874.8	No	RK088_C01	2120962	p.?	c.96-156A>G	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44629325..44629325
+ADA	ENST00000372874.8	No	HCC95T	1919252	p.?	c.96-489C>A	Liver	NS	NS	Carcinoma	NS	NS	-	323	Variant of unknown origin	Tumour Sample	Heterozygous	20:44629658..44629658
+ADA	ENST00000372874.8	No	PD8984a	1610386	p.?	c.96-565C>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44629734..44629734
+ADA	ENST00000372874.8	No	RK123_C01	2194689	p.?	c.96-739C>A	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44629908..44629908
+ADA	ENST00000372874.8	No	AOCS-135-8-X	2186429	p.?	c.96-786G>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44629955..44629955
+ADA	ENST00000372874.8	No	342-01-2TD	2385332	p.?	c.96-836A>G	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Chronic lymphocytic leukaemia-small lymphocytic lymphoma	NS	-	340	Confirmed Somatic	Tumour Sample	Unknown	20:44630005..44630005
+ADA	ENST00000372874.8	No	PCSI_0329_Pa_P_526	2340482	p.?	c.96-1188C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44630357..44630357
+ADA	ENST00000372874.8	No	RK021_C01	1918816	p.?	c.96-1452G>A	Liver	NS	NS	Carcinoma	NS	NS	-	322	Variant of unknown origin	Tumour Sample	Heterozygous	20:44630621..44630621
+ADA	ENST00000372874.8	No	LP6005690-DNA_C02	2263606	p.?	c.96-1623C>G	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44630792..44630792
+ADA	ENST00000372874.8	No	CPCG_0183_Pr_P_P2	2121449	p.?	c.96-1817A>G	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Unknown	Unknown	20:44630986..44630986
+ADA	ENST00000372874.8	No	DA12001	2634930	p.?	c.96-1923T>C	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	675	Confirmed Somatic	Tumour Sample	Unknown	20:44631092..44631092
+ADA	ENST00000372874.8	No	0127_CRUK_PC_0127_T1_DNA	2457598	p.?	c.96-1984_96-1983del	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	538	Confirmed Somatic	Tumour Sample	Unknown	20:44631154..44631155
+ADA	ENST00000372874.8	No	HCC73T	1919232	p.?	c.96-2929T>A	Liver	NS	NS	Carcinoma	NS	NS	-	323	Variant of unknown origin	Tumour Sample	Heterozygous	20:44632098..44632098
+ADA	ENST00000372874.8	No	HCC94T	1919251	p.?	c.96-3005C>A	Liver	NS	NS	Carcinoma	NS	NS	-	323	Variant of unknown origin	Tumour Sample	Heterozygous	20:44632174..44632174
+ADA	ENST00000372874.8	No	EOPC-064_tumor_01	2633810	p.?	c.96-3063G>A	Prostate	NS	NS	Carcinoma	NS	NS	-	534	Confirmed Somatic	Tumour Sample	Unknown	20:44632232..44632232
+ADA	ENST00000372874.8	No	PCSI_0102_Pa_P	1653169	p.?	c.96-3261G>A	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44632430..44632430
+ADA	ENST00000372874.8	No	PCSI_0102_Pa_P_526	2340210	p.?	c.96-3261G>A	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44632430..44632430
+ADA	ENST00000372874.8	No	PD5945a	1474068	p.?	c.95+3431C>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44632796..44632796
+ADA	ENST00000372874.8	No	ASHPC_0025_Pa_P	2340705	p.?	c.95+3277A>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44632950..44632950
+ADA	ENST00000372874.8	No	0221_CRUK_PC_0221_T1_DNA	2635045	p.?	c.95+3163C>T	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	538	Confirmed Somatic	Tumour Sample	Unknown	20:44633064..44633064
+ADA	ENST00000372874.8	No	82T	2745907	p.?	c.95+3096G>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44633131..44633131
+ADA	ENST00000372874.8	No	LP6008280-DNA_H01	2688176	p.?	c.95+2960T>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44633267..44633267
+ADA	ENST00000372874.8	No	PD4847a	1433841	p.?	c.95+2854G>A	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44633373..44633373
+ADA	ENST00000372874.8	No	SS6003317	2193472	p.?	c.95+2163T>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Unknown	Unknown	20:44634064..44634064
+ADA	ENST00000372874.8	No	RK053_C01	2194726	p.?	c.95+2027C>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44634200..44634200
+ADA	ENST00000372874.8	No	J32_T	2195006	p.?	c.95+1712C>A	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	583	Confirmed Somatic	Unknown	Unknown	20:44634515..44634515
+ADA	ENST00000372874.8	No	PD22366a	2199791	p.?	c.95+1699G>C	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44634528..44634528
+ADA	ENST00000372874.8	No	PCSI_0002_Pa_P	1653146	p.?	c.95+1625C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44634602..44634602
+ADA	ENST00000372874.8	No	PCSI_0002_Pa_X	2121250	p.?	c.95+1625C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Unknown	Unknown	20:44634602..44634602
+ADA	ENST00000372874.8	No	PD6730b	1503007	p.?	c.95+1603G>T	Breast	NS	NS	Carcinoma	NS	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44634624..44634624
+ADA	ENST00000372874.8	No	CPCG0361-F3	2688343	p.?	c.95+1269G>A	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	537	Confirmed Somatic	Tumour Sample	Unknown	20:44634958..44634958
+ADA	ENST00000372874.8	No	8031121	1653114	p.?	c.95+956G>A	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Tumour Sample	Unknown	20:44635271..44635271
+ADA	ENST00000372874.8	No	204T	2745859	p.?	c.95+324del	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44635913..44635913
+ADA	ENST00000372874.8	No	8031085	1842480	p.?	c.95+227C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Tumour Sample	Unknown	20:44636000..44636000
+ADA	ENST00000372874.8	No	053	1630822	p.?	c.95+2T>A	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Chronic lymphocytic leukaemia-small lymphocytic lymphoma	NS	22158541	-	Confirmed Somatic	Tumour Sample	Unknown	20:44636225..44636225
+ADA	ENST00000372874.8	No	053-0104-02TD	1921499	p.?	c.95+2T>A	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Chronic lymphocytic leukaemia-small lymphocytic lymphoma	NS	-	340	Previously Reported	Tumour Sample	Unknown	20:44636225..44636225
+ADA	ENST00000372874.8	No	IGC-04-1162	2662307	p.R32M	c.95G>T	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	27923066	-	Confirmed Somatic	Tumour Sample	Unknown	20:44636227..44636227
+ADA	ENST00000372874.8	No	TCGA-AJ-A3EK-01	2198284	p.Y29*	c.87C>A	Endometrium	NS	NS	Carcinoma	Endometrioid carcinoma	NS	-	419	Confirmed Somatic	Unknown	Unknown	20:44636235..44636235
+ADA	ENST00000372874.8	No	GBNEC_9	2907840	p.I22M	c.66C>G	Biliary tract	Gallbladder	NS	Carcinoma	Small cell carcinoma	NS	33563892	-	Previously Reported	Tumour Sample	Unknown	20:44636256..44636256
+ADA	ENST00000372874.8	No	TCGA-CM-6171-01	1651233	p.I22M	c.66C>G	Large intestine	Colon	Ascending	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44636256..44636256
+ADA	ENST00000372874.8	No	D41	1996413	p.S21F	c.62C>T	Skin	NS	NS	Malignant melanoma	NS	NS	22197930	-	Variant of unknown origin	Cultured	Heterozygous	20:44636260..44636260
+ADA	ENST00000372874.8	No	TCGA-GD-A6C6-01	2193243	p.D19=	c.57C>T	Urinary tract	Bladder	NS	Carcinoma	NS	NS	-	413	Confirmed Somatic	Unknown	Unknown	20:44636265..44636265
+ADA	ENST00000372874.8	No	LC_C34	1863715	p.D19H	c.55G>C	Lung	NS	NS	Carcinoma	Adenocarcinoma	NS	22975805	-	Confirmed Somatic	Tumour Sample	Unknown	20:44636267..44636267
+ADA	ENST00000372874.8	No	ORL-166	2559740	p.D19N	c.55G>A	Upper aerodigestive tract	Mouth	Tongue	Carcinoma	Squamous cell carcinoma	NS	27050151	-	Variant of unknown origin	Cultured	Unknown	20:44636267..44636267
+ADA	ENST00000372874.8	No	TCGA-56-7223-01	2195136	p.V12M	c.34G>A	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	418	Confirmed Somatic	Unknown	Unknown	20:44636288..44636288
+ADA	ENST00000372874.8	No	TCGA-BQ-7062-01	2194067	p.V12M	c.34G>A	Kidney	NS	NS	Carcinoma	Papillary renal cell carcinoma	NS	-	543	Confirmed Somatic	Unknown	Unknown	20:44636288..44636288
+ADA	ENST00000372874.8	No	6-2	2746101	p.?	c.34-65C>T	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	646	Confirmed Somatic	Tumour Sample	Unknown	20:44636353..44636353
+ADA	ENST00000372874.8	No	DN12015	2549186	p.?	c.34-172A>T	Breast	NS	NS	Carcinoma	HER-positive carcinoma	NS	-	668	Confirmed Somatic	Tumour Sample	Unknown	20:44636460..44636460
+ADA	ENST00000372874.8	No	PD11462a	1764433	p.?	c.34-172A>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44636460..44636460
+ADA	ENST00000372874.8	No	RK101_C01	2120966	p.?	c.34-642C>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44636930..44636930
+ADA	ENST00000372874.8	No	LP6005409-DNA_F03	2263258	p.?	c.34-726G>A	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44637014..44637014
+ADA	ENST00000372874.8	No	tumor_4122063	2385389	p.?	c.34-799C>T	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	NS	NS	-	440	Confirmed Somatic	Tumour Sample	Unknown	20:44637087..44637087
+ADA	ENST00000372874.8	No	Patient_1	2443644	p.?	c.34-820C>A	Haematopoietic and lymphoid	Skin	NS	Lymphoid neoplasm	Mycosis fungoides-Sezary syndrome	NS	26082451	-	Confirmed Somatic	Tumour Sample	Unknown	20:44637108..44637108
+ADA	ENST00000372874.8	No	ASHPC_0001_Pa_P_2	2197228	p.?	c.34-961C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Unknown	Unknown	20:44637249..44637249
+ADA	ENST00000372874.8	No	C0031T	2197637	p.?	c.34-1676A>T	Kidney	NS	NS	NS	NS	NS	-	588	Confirmed Somatic	Unknown	Unknown	20:44637964..44637964
+ADA	ENST00000372874.8	No	PD11339a	1749308	p.?	c.34-2149G>A	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44638437..44638437
+ADA	ENST00000372874.8	No	PD11742a	1768176	p.?	c.34-2604C>T	Breast	NS	NS	Carcinoma	Lobular carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44638892..44638892
+ADA	ENST00000372874.8	No	LP6005935-DNA_A03	2385854	p.?	c.34-4120G>C	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44640408..44640408
+ADA	ENST00000372874.8	No	C0080T	2197667	p.?	c.34-4293A>T	Kidney	NS	NS	NS	NS	NS	-	588	Confirmed Somatic	Unknown	Unknown	20:44640581..44640581
+ADA	ENST00000372874.8	No	OSCC-GB_01330111	2549734	p.?	c.34-4377A>G	Upper aerodigestive tract	Mouth	NS	Carcinoma	NS	NS	-	539	Confirmed Somatic	Tumour Sample	Unknown	20:44640665..44640665
+ADA	ENST00000372874.8	No	J83_T	2194994	p.?	c.34-4468G>T	Lung	NS	NS	Carcinoma	Squamous cell carcinoma	NS	-	583	Confirmed Somatic	Unknown	Unknown	20:44640756..44640756
+ADA	ENST00000372874.8	No	2014_Lung_sq_11_T	2744882	p.?	c.34-4468G>T	Lung	NS	NS	Carcinoma	NS	NS	-	583	Confirmed Somatic	Tumour Sample	Unknown	20:44640756..44640756
+ADA	ENST00000372874.8	No	RK261_C02	2340470	p.?	c.34-4522T>G	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Tumour Sample	Unknown	20:44640810..44640810
+ADA	ENST00000372874.8	No	CHG-2011-508T	2634354	p.?	c.34-4651G>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44640939..44640939
+ADA	ENST00000372874.8	No	CHG-13-29153T	2634325	p.?	c.34-4680C>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44640968..44640968
+ADA	ENST00000372874.8	No	8064157	2121225	p.?	c.34-4762C>G	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Unknown	Unknown	20:44641050..44641050
+ADA	ENST00000372874.8	No	RK146_C01	1918887	p.?	c.34-4832C>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Tumour Sample	Unknown	20:44641120..44641120
+ADA	ENST00000372874.8	No	CHC2691T	2634365	p.?	c.34-5155C>T	Liver	NS	NS	Other	Neoplasm	NS	-	381	Confirmed Somatic	Tumour Sample	Unknown	20:44641443..44641443
+ADA	ENST00000372874.8	No	PD18149a	2031409	p.?	c.34-5427C>T	Breast	NS	NS	Carcinoma	Neuroendocrine carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44641715..44641715
+ADA	ENST00000372874.8	No	PD7240a	1530640	p.?	c.34-5487A>C	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44641775..44641775
+ADA	ENST00000372874.8	No	8069331	2197064	p.?	c.34-5946T>G	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Unknown	Unknown	20:44642234..44642234
+ADA	ENST00000372874.8	No	AOCS-115-1-0	2196262	p.?	c.34-6320C>A	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44642608..44642608
+ADA	ENST00000372874.8	No	RK216_C01	2194683	p.?	c.34-6480A>G	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Unknown	Unknown	20:44642768..44642768
+ADA	ENST00000372874.8	No	PD17981a	2010947	p.?	c.34-7381A>G	Breast	NS	NS	Carcinoma	Ductal carcinoma	Micropapillary	-	652	Confirmed Somatic	Unknown	Unknown	20:44643669..44643669
+ADA	ENST00000372874.8	No	SS6003317	2193472	p.?	c.34-7467G>T	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Unknown	Unknown	20:44643755..44643755
+ADA	ENST00000372874.8	No	8016470	1842414	p.?	c.34-7553A>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Cultured	Unknown	20:44643841..44643841
+ADA	ENST00000372874.8	No	AOCS-094-6-X	2186254	p.?	c.34-7594G>A	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44643882..44643882
+ADA	ENST00000372874.8	No	PD9696a	1655475	p.?	c.34-7607T>A	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44643895..44643895
+ADA	ENST00000372874.8	No	8016470	1842414	p.?	c.34-7630C>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	328	Confirmed Somatic	Cultured	Unknown	20:44643918..44643918
+ADA	ENST00000372874.8	No	PD40845k_lo0005	2875098	p.?	c.33+7165G>C	Urinary tract	Bladder	NS	Carcinoma	Transitional cell carcinoma	Non papillary transitional cell carcinoma non invasive	33004514	-	Confirmed Somatic	Tumour Sample	Unknown	20:44644410..44644410
+ADA	ENST00000372874.8	No	PD40845k_lo0005	2875098	p.?	c.33+7156G>A	Urinary tract	Bladder	NS	Carcinoma	Transitional cell carcinoma	Non papillary transitional cell carcinoma non invasive	33004514	-	Confirmed Somatic	Tumour Sample	Unknown	20:44644419..44644419
+ADA	ENST00000372874.8	No	DN110CD	2549243	p.?	c.33+6784C>A	Breast	NS	NS	Carcinoma	HER-positive carcinoma	NS	-	668	Confirmed Somatic	Tumour Sample	Unknown	20:44644791..44644791
+ADA	ENST00000372874.8	No	PCSI_0300_Pa_P_526	2340085	p.?	c.33+6342G>T	Pancreas	NS	NS	Carcinoma	Ductal carcinoma	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44645233..44645233
+ADA	ENST00000372874.8	No	PD26854a	2935719	p.?	c.33+5815C>T	Soft tissue	Fibrous tissue and uncertain origin	Lower leg	Undifferentiated-unclassified sarcoma	Spindle cell	NS	30889380	-	Confirmed Somatic	Tumour Sample	Unknown	20:44645760..44645760
+ADA	ENST00000372874.8	No	PET087T	2507120	p.?	c.33+5601G>T	Pancreas	NS	NS	Carcinoid-endocrine tumour	NS	NS	-	661	Confirmed Somatic	Tumour Sample	Unknown	20:44645974..44645974
+ADA	ENST00000372874.8	No	ITNET_0087_T	2340965	p.?	c.33+5601G>T	Pancreas	NS	NS	Carcinoid-endocrine tumour	NS	NS	-	650	Confirmed Somatic	Tumour Sample	Unknown	20:44645974..44645974
+ADA	ENST00000372874.8	No	ICGC_MB76	2197427	p.?	c.33+5562G>A	Central nervous system	Brain	NS	Primitive neuroectodermal tumour-medulloblastoma	NS	NS	-	379	Confirmed Somatic	Unknown	Unknown	20:44646013..44646013
+ADA	ENST00000372874.8	No	HUB-02-C2-031	2607094	p.?	c.33+5469G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	670	Confirmed Somatic	Cultured	Unknown	20:44646106..44646106
+ADA	ENST00000372874.8	No	HUB-02-B2-031_I	2607093	p.?	c.33+5469G>A	Large intestine	NS	NS	Carcinoma	Adenocarcinoma	NS	-	670	Confirmed Somatic	Cultured	Unknown	20:44646106..44646106
+ADA	ENST00000372874.8	No	HCC119T	1919179	p.?	c.33+5169G>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Variant of unknown origin	Tumour Sample	Heterozygous	20:44646406..44646406
+ADA	ENST00000372874.8	No	PD4844a	1433832	p.?	c.33+4793A>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44646782..44646782
+ADA	ENST00000372874.8	No	23T	2745865	p.?	c.33+4643G>A	Liver	NS	NS	Other	Neoplasm	NS	-	660	Confirmed Somatic	Tumour Sample	Unknown	20:44646932..44646932
+ADA	ENST00000372874.8	No	LP6005409-DNA_C01	2549516	p.?	c.33+4524C>A	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44647051..44647051
+ADA	ENST00000372874.8	No	ICGC_MB69	2197426	p.?	c.33+4366G>A	Central nervous system	Brain	NS	Primitive neuroectodermal tumour-medulloblastoma	NS	NS	-	379	Confirmed Somatic	Unknown	Unknown	20:44647209..44647209
+ADA	ENST00000372874.8	No	PD18754a	2049335	p.?	c.33+4253C>G	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44647322..44647322
+ADA	ENST00000372874.8	No	PD5942a	1474059	p.?	c.33+3968G>T	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44647607..44647607
+ADA	ENST00000372874.8	No	PD18247a	2040080	p.?	c.33+3546C>G	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Unknown	Unknown	20:44648029..44648029
+ADA	ENST00000372874.8	No	AOCS-064-1-6	2196334	p.?	c.33+3318G>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44648257..44648257
+ADA	ENST00000372874.8	No	AOCS-064-3-3	2186504	p.?	c.33+3318G>T	Ovary	NS	NS	Carcinoma	Mixed adenosquamous carcinoma	NS	-	585	Confirmed Somatic	Unknown	Unknown	20:44648257..44648257
+ADA	ENST00000372874.8	No	PCSI_0655_Pa_P_526	2744829	p.?	c.33+3226C>T	Pancreas	NS	NS	Carcinoma	NS	NS	-	382	Confirmed Somatic	Tumour Sample	Unknown	20:44648349..44648349
+ADA	ENST00000372874.8	No	802-01-11TD	2385293	p.?	c.33+2748C>T	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	Chronic lymphocytic leukaemia-small lymphocytic lymphoma	NS	-	340	Confirmed Somatic	Tumour Sample	Unknown	20:44648827..44648827
+ADA	ENST00000372874.8	No	CHC2443T	2634367	p.?	c.33+2569G>T	Liver	NS	NS	Other	Neoplasm	NS	-	381	Confirmed Somatic	Tumour Sample	Unknown	20:44649006..44649006
+ADA	ENST00000372874.8	No	RK282_C01	2340201	p.?	c.33+2245A>T	Liver	NS	NS	Carcinoma	NS	NS	-	322	Confirmed Somatic	Tumour Sample	Unknown	20:44649330..44649330
+ADA	ENST00000372874.8	No	Patient_4	2443647	p.?	c.33+1845_33+1846insA	Haematopoietic and lymphoid	Skin	NS	Lymphoid neoplasm	Mycosis fungoides-Sezary syndrome	NS	26082451	-	Confirmed Somatic	Tumour Sample	Unknown	20:44649729..44649730
+ADA	ENST00000372874.8	No	CHC322T	1652979	p.?	c.33+1666T>C	Liver	NS	NS	Carcinoma	Hepatocellular carcinoma	NS	-	381	Confirmed Somatic	Tumour Sample	Unknown	20:44649909..44649909
+ADA	ENST00000372874.8	No	LP6008269-DNA_F07	2688178	p.?	c.33+1430G>A	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44650145..44650145
+ADA	ENST00000372874.8	No	LP6005500-DNA_A01	2262738	p.?	c.33+1428G>A	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44650147..44650147
+ADA	ENST00000372874.8	No	tumor_4145391	2634550	p.?	c.33+550C>T	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	NS	NS	-	440	Confirmed Somatic	Tumour Sample	Unknown	20:44651025..44651025
+ADA	ENST00000372874.8	No	PD9702a	1655488	p.?	c.33+463T>A	Breast	NS	NS	Carcinoma	Ductal carcinoma	NS	-	652	Confirmed Somatic	Tumour Sample	Unknown	20:44651112..44651112
+ADA	ENST00000372874.8	No	tumor_4189035	2385439	p.?	c.33+414G>A	Haematopoietic and lymphoid	NS	NS	Lymphoid neoplasm	NS	NS	-	440	Confirmed Somatic	Tumour Sample	Unknown	20:44651161..44651161
+ADA	ENST00000372874.8	No	LP6007600	2263332	p.?	c.33+338T>A	Oesophagus	NS	NS	Carcinoma	Adenocarcinoma	NS	-	535	Confirmed Somatic	Tumour Sample	Unknown	20:44651237..44651237
+ADA	ENST00000372874.8	No	0053_CRUK_PC_0053_T1_DNA	2457539	p.?	c.33+239G>A	Prostate	NS	NS	Carcinoma	Adenocarcinoma	NS	-	538	Confirmed Somatic	Tumour Sample	Unknown	20:44651336..44651336
+ADA	ENST00000372874.8	No	GCTK_382_T	2747544	p.?	c.33+28G>A	Stomach	NS	NS	Carcinoma	NS	NS	-	683	Confirmed Somatic	Tumour Sample	Unknown	20:44651547..44651547
+ADA	ENST00000372874.8	No	MGH005-DJTHU	2778438	p.?	c.33+8C>G	Meninges	NS	NS	Meningioma	NS	NS	30123936	-	Confirmed Somatic	Tumour Sample	Unknown	20:44651567..44651567
+ADA	ENST00000372874.8	No	MGH005-DJTHV	2778439	p.?	c.33+8C>G	Meninges	NS	NS	Meningioma	NS	NS	30123936	-	Confirmed Somatic	Tumour Sample	Unknown	20:44651567..44651567
+ADA	ENST00000372874.8	No	DD107_PT	2749230	p.?	c.33+2T>G	Stomach	NS	NS	Carcinoma	Adenocarcinoma	NS	29703791	-	Confirmed Somatic	Tumour Sample	Heterozygous	20:44651573..44651573
+ADA	ENST00000372874.8	No	38	2955811	p.D8N	c.22G>A	Soft tissue	Fibrous tissue and uncertain origin	Gastrointestinal tract (site indeterminate)	Gastrointestinal stromal tumour	NS	NS	31636198	-	Previously Reported	Tumour Sample	Unknown	20:44651586..44651586
+ADA	ENST00000372874.8	No	TCGA-DM-A1DA-01	1651282	p.D8N	c.22G>A	Large intestine	Caecum	NS	Carcinoma	Adenocarcinoma	NS	-	376	Confirmed Somatic	Unknown	Unknown	20:44651586..44651586
+ADA	ENST00000372874.8	No	ICGC_MB83	2197412	p.D8N	c.22G>A	Central nervous system	Brain	NS	Primitive neuroectodermal tumour-medulloblastoma	NS	NS	-	379	Confirmed Somatic	Unknown	Unknown	20:44651586..44651586
+ADA	ENST00000372874.8	No	PTC-54C	2186434	p.D8N	c.22G>A	Thyroid	NS	NS	Other	Neoplasm	NS	-	589	Confirmed Somatic	Unknown	Unknown	20:44651586..44651586
+ADA	ENST00000372874.8	No	HCC105	2120699	p.?	c.-66C>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Confirmed Somatic	Unknown	Unknown	20:44651673..44651673
+ADA	ENST00000372874.8	No	HCC105T	1919168	p.?	c.-66C>T	Liver	NS	NS	Carcinoma	NS	NS	-	323	Previously Reported	Tumour Sample	Heterozygous	20:44651673..44651673
