@@ -376,7 +376,7 @@ code {
 <li><code>./retrieve_seq_from_fasta.pl humandb/hg19_refGene.txt -seqdir humandb/hg19_seq -format refGene -outfile humandb/hg19_refGeneMrna.fa</code></li>
 </ul>
 </li>
-<li>As shown in exercise 5, there's one short insertions and one deletions available. I generated another 9 insertions and deletions in vcf format myself. The module to yield coding level codon- insertions or deletions without frameshif is in <a href="https://github.com/brainfo/indelsCreater">github</a></li>
+<li>As shown in exercise 5, there's one short insertions and one deletions available. I generated another 15 insertions and 15 deletions in vcf format myself. The module to yield coding level codon- insertions or deletions without frameshif is in <a href="https://github.com/brainfo/indelsCreater">github</a></li>
 <li>use convert2annovar.pl to convert the vcf to annovar input:  <code>./convert2annovar.pl -format vcf4 /mnt/data/hong/courses/varianceAnalysis/data/indel.vcf &gt; /mnt/data/hong/courses/varianceAnalysis/data/indel.vcf.avinput</code></li>
 <li>use coding_change.pl to convert vcf to input required by the MutPred2.</li>
 <li>Run MutPredIndel.
