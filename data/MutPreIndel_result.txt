@@ -1,0 +1,24 @@
+Header	Site	Score	Mechanisms
+line1 NM_000022 WILDTYPE      	L46     	0.79867     	NA
+line2 NM_001322050 WILDTYPE      	I74     	0.56815     	NA
+line3 NM_000022 WILDTYPE      	Q3     	0.72375     	Pyrrolidone carboxylic acid(p=0.0038122); Phosphorylation(p=0.016667);
+line4 NM_000022 WILDTYPE      	N48     	0.77578     	NA
+line5 NM_001322050 WILDTYPE      	D172     	0.56318     	NA
+line6 NM_001322050 WILDTYPE      	K36     	0.50519     	NA
+line7 NM_001322050 WILDTYPE      	A69     	0.58605     	NA
+line8 NM_000022 WILDTYPE      	D53     	0.77656     	NA
+line10 NM_001322050 WILDTYPE      	E207     	0.49398     	MoRF(p=0.017344); Helix(p=0.020401); Coiled coil(p=0.024922); Potassium binding(p=0.029942); Loop(p=0.040366);
+line11 NM_001322050 WILDTYPE      	Q111     	0.58403     	NA
+line12 NM_001322050 WILDTYPE      	P139     	0.54218     	NA
+line13 NM_000022 WILDTYPE      	E93     	0.81378     	NA
+line14 NM_001322050 WILDTYPE      	K166     	0.55745     	NA
+line15 NM_001322050 WILDTYPE      	R206     	0.44222     	NA
+line17 NM_001322050 WILDTYPE      	E125     	0.65338     	Allosteric site(p=0.023107); Magnesium binding(p=0.027798); Sodium binding(p=0.029322);
+line19 NM_000022 WILDTYPE      	Y68     	0.79755     	NA
+line20 NM_000022 WILDTYPE      	M155     	0.81947     	NA
+line21 NM_001322050 WILDTYPE      	H75     	0.58671     	NA
+line23 NM_000022 WILDTYPE      	L137     	0.80028     	NA
+line24 NM_001322050 WILDTYPE      	D151     	0.56975     	NA
+line25 NM_000022 WILDTYPE      	P24     	0.81262     	NA
+line26 NM_000022 WILDTYPE      	R142     	0.80372     	NA
+line27 NM_001322050 WILDTYPE      	Q40     	0.52005     	NA

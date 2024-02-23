@@ -1,0 +1,23 @@
+line1	nonframeshift insertion	ADA:NM_000022:exon3:c.134_135insCTC:p.G45delinsGS,ADA:NM_001322051:exon3:c.134_135insCTC:p.G45delinsGS,	chr20	43257771	43257771	-	GAG	.	.	.
+line2	nonframeshift insertion	ADA:NM_001322050:exon6:c.218_219insATT:p.G73delinsGF,ADA:NM_000022:exon7:c.623_624insATT:p.G208delinsGF,	chr20	43251702	43251702	-	AAT	.	.	.
+line3	nonframeshift insertion	ADA:NM_000022:exon1:c.5_6insGGC:p.A2delinsAA,ADA:NM_001322051:exon1:c.5_6insGGC:p.A2delinsAA,	chr20	43280243	43280243	-	GCC	.	.	.
+line4	nonframeshift insertion	ADA:NM_000022:exon3:c.143_144insAAG:p.N48delinsKS,ADA:NM_001322051:exon3:c.143_144insAAG:p.N48delinsKS,	chr20	43257762	43257762	-	CTT	.	.	.
+line5	nonframeshift insertion	ADA:NM_001322050:exon9:c.513_514insAGT:p.D172delinsSD,ADA:NM_000022:exon10:c.918_919insAGT:p.D307delinsSD,ADA:NM_001322051:exon9:c.846_847insAGT:p.D283delinsSD,	chr20	43249715	43249715	-	ACT	.	.	.
+line6	nonframeshift insertion	ADA:NM_001322050:exon5:c.107_108insTCC:p.K36delinsNP,ADA:NM_000022:exon6:c.512_513insTCC:p.K171delinsNP,ADA:NM_001322051:exon6:c.512_513insTCC:p.K171delinsNP,	chr20	43252936	43252936	-	GGA	.	.	.
+line7	nonframeshift insertion	ADA:NM_001322050:exon6:c.203_204insATG:p.E68delinsEW,ADA:NM_000022:exon7:c.608_609insATG:p.E203delinsEW,	chr20	43251717	43251717	-	CAT	.	.	.
+line8	nonframeshift insertion	ADA:NM_000022:exon3:c.156_157insAGG:p.D53delinsRD,ADA:NM_001322051:exon3:c.156_157insAGG:p.D53delinsRD,	chr20	43257749	43257749	-	CCT	.	.	.
+line10	stopgain	ADA:NM_001322050:exon10:c.620_621insTTA:p.E207delinsDX,ADA:NM_000022:exon11:c.1025_1026insTTA:p.E342delinsDX,ADA:NM_001322051:exon10:c.953_954insTTA:p.E318delinsDX,	chr20	43248992	43248992	-	TAA	.	.	.
+line11	nonframeshift insertion	ADA:NM_001322050:exon7:c.332_333insTCC:p.Q111delinsHP,ADA:NM_000022:exon8:c.737_738insTCC:p.Q246delinsHP,ADA:NM_001322051:exon7:c.665_666insTCC:p.Q222delinsHP,	chr20	43251512	43251512	-	GGA	.	.	.
+line12	nonframeshift insertion	ADA:NM_001322050:exon8:c.413_414insAGG:p.K138delinsKG,ADA:NM_000022:exon9:c.818_819insAGG:p.K273delinsKG,ADA:NM_001322051:exon8:c.746_747insAGG:p.K249delinsKG,	chr20	43251255	43251255	-	CCT	.	.	.
+line13	nonframeshift insertion	ADA:NM_000022:exon4:c.276_277insTTA:p.E93delinsLE,ADA:NM_001322051:exon4:c.276_277insTTA:p.E93delinsLE,	chr20	43255182	43255182	-	TAA	.	.	.
+line14	nonframeshift insertion	ADA:NM_001322050:exon9:c.494_495insTGC:p.F165delinsFA,ADA:NM_000022:exon10:c.899_900insTGC:p.F300delinsFA,ADA:NM_001322051:exon9:c.827_828insTGC:p.F276delinsFA,	chr20	43249734	43249734	-	GCA	.	.	.
+line15	nonframeshift insertion	ADA:NM_001322050:exon10:c.614_615insAGT:p.K205delinsKV,ADA:NM_000022:exon11:c.1019_1020insAGT:p.K340delinsKV,ADA:NM_001322051:exon10:c.947_948insAGT:p.K316delinsKV,	chr20	43248998	43248998	-	ACT	.	.	.
+line17	nonframeshift deletion	ADA:NM_001322050:exon7:c.374_376del:p.125_126del,ADA:NM_000022:exon8:c.779_781del:p.260_261del,ADA:NM_001322051:exon7:c.707_709del:p.236_237del,	chr20	43251293	43251471	TCTGGAAGAGCAGGTGTGTGGCTGGCAGGGATGGCCCCAGGCCATGCTGATTCCTCCCCCCATGTCTGGGCCTGGGGCCACCCCTCGAGTTCCTGGGACCCGCCCTGCTTTCTGCCTCTCTATACAGGAAGTTGGGACAGCCGGGGATGGTTCCTCCCCACTCCCTGGCCCGCTTACCT	-	.	.	.
+line19	nonframeshift deletion	ADA:NM_000022:exon3:c.203_205del:p.68_69del,ADA:NM_001322051:exon3:c.203_205del:p.68_69del,	chr20	43257701	43257703	TGT	-	.	.	.
+line20	nonframeshift deletion	ADA:NM_000022:exon5:c.464_466del:p.155_156del,ADA:NM_001322051:exon5:c.464_466del:p.155_156del,	chr20	43254222	43254224	GCA	-	.	.	.
+line21	nonframeshift deletion	ADA:NM_001322050:exon6:c.224_226del:p.75_76del,ADA:NM_000022:exon7:c.629_631del:p.210_211del,	chr20	43251695	43251697	GGT	-	.	.	.
+line23	nonframeshift deletion	ADA:NM_000022:exon5:c.410_412del:p.137_138del,ADA:NM_001322051:exon5:c.410_412del:p.137_138del,	chr20	43254276	43254278	GCA	-	.	.	.
+line24	nonframeshift deletion	ADA:NM_001322050:exon9:c.450_452del:p.150_151del,ADA:NM_000022:exon10:c.855_857del:p.285_286del,ADA:NM_001322051:exon9:c.783_785del:p.261_262del,	chr20	43249777	43249779	TCA	-	.	.	.
+line25	nonframeshift deletion	ADA:NM_000022:exon2:c.71_73del:p.24_25del,ADA:NM_001322051:exon2:c.71_73del:p.24_25del,	chr20	43264890	43264892	CAG	-	.	.	.
+line26	nonframeshift deletion	ADA:NM_000022:exon5:c.425_427del:p.142_143del,ADA:NM_001322051:exon5:c.425_427del:p.142_143del,	chr20	43254261	43254263	CTC	-	.	.	.
+line27	nonframeshift deletion	ADA:NM_001322050:exon5:c.118_120del:p.40_40del,ADA:NM_000022:exon6:c.523_525del:p.175_175del,ADA:NM_001322051:exon6:c.523_525del:p.175_175del,	chr20	43252924	43252926	CTG	-	.	.	.
